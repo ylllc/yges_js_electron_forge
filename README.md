@@ -71,7 +71,7 @@ module.exports = {
 
 ```
 
-see out/YggdrasilEssenseExamples-*/resources  
+build and see out/YggdrasilEssenseExamples-*/resources  
 (for debug, and not recommended for release)  
 
 
