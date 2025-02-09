@@ -1,4 +1,4 @@
-﻿# Yggdrasil Essence for Electron
+﻿# Yggdrasil Essence for Electron-forge
 
 Copyright © 2025 [Yggdrasil Leaves, LLC.](https://yggdrasil-leaves.com)
 
