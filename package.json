@@ -5,7 +5,6 @@
   "version": "0.0.0",
   "main": "main.js",
   "dependencies": {
-    "@electron-forge/plugin-electronegativity": "^7.6.1",
     "electron-squirrel-startup": "^1.0.1"
   },
   "scripts": {
@@ -21,6 +20,7 @@
     "@electron-forge/maker-zip": "^7.6.0",
     "@electron-forge/plugin-auto-unpack-natives": "^7.6.0",
     "@electron-forge/plugin-fuses": "^7.6.0",
+    "@electron-forge/plugin-electronegativity": "^7.6.1",
     "@electron/fuses": "^1.8.0",
     "electron": "^33.3.1"
   }
